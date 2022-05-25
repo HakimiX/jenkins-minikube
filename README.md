@@ -1,5 +1,7 @@
 # Jenkins on Kubernetes using Minikube
 
+* [Setup](#setup)
+
 ### Setup
 
 1. Create a minikube profile
@@ -44,3 +46,9 @@ jenkins   NodePort   10.108.176.124   <none>        8080:30408/TCP,50000:30707/T
 # Navigate to 
 http://192.168.64.7:30408
 ```
+
+### Jenkins Data
+
+The Jenkins data is stored in the minikube node, which can be accessed with SSH
+![](resources/images/minikube-ssh.png)
+
