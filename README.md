@@ -1,6 +1,7 @@
 # Jenkins on Kubernetes using Minikube
 
 * [Setup](#setup)
+* [Jenkins Data](#jenkins-data)
 
 ### Setup
 
@@ -49,6 +50,6 @@ http://192.168.64.7:30408
 
 ### Jenkins Data
 
-The Jenkins data is stored in the minikube node, which can be accessed with SSH
+The Jenkins data is stored in the minikube node, and can be accessed with SSH
 ![](resources/images/minikube-ssh.png)
 
