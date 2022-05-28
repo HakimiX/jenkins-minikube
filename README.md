@@ -83,4 +83,3 @@ The next step is to create a cloud configuration for the minikube kubernetes clu
 
 The Jenkins data is stored in the minikube node, and can be accessed with SSH
 ![](resources/images/minikube-ssh.png)
-
