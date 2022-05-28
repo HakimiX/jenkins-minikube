@@ -74,7 +74,7 @@ The next step is to create a cloud configuration for the minikube kubernetes clu
    * __Kubernetes Namespace__: `jenkins`.
    * __Credentials__: `~/.kube/config` → Select the Kubernetes Service Account credentials you created in the previous step. 
    * __Jenkins URL__: `http://<minikube-ip>:<service-port>` → `http://192.168.64.7:30408`.    
-   * __Jenkins tunnel__: `<pod-i>:<service-port>` → `10.108.176.124:50000` - This is the port that is used to communicate with an agent.
+   * __Jenkins tunnel__: `<pod-ip>:<service-port>` → `10.108.176.124:50000` - This is the port that is used to communicate with an agent.
 
 ![](resources/images/jenkins-configure-clouds.png)
 
