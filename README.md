@@ -1,6 +1,9 @@
 # Jenkins on Kubernetes using Minikube
 
 * [Setup](#setup)
+* [Jenkins Configure Cloud](#jenkins-configure-cloud)
+  * [Configure the Jenkins Controller](#configure-the-jenkins-controller)
+  * [Create a Cloud Configuration on the Jenkins Controller](#create-a-cloud-configuration-on-the-jenkins-controller)
 * [Jenkins Data](#jenkins-data)
 
 ### Setup
