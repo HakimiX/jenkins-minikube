@@ -37,8 +37,8 @@ minikube profile list
 |------------------|-----------|---------|--------------|------|---------|---------|-------|
 |     Profile      | VM Driver | Runtime |      IP      | Port | Version | Status  | Nodes |
 |------------------|-----------|---------|--------------|------|---------|---------|-------|
-| minikube         | hyperkit  | docker  | 192.168.64.2 | 8443 | v1.23.3 | Running |     1 |
-| minikube-jenkins | hyperkit  | docker  | 192.168.64.7 | 8443 | v1.23.3 | Running |     1 |
+| minikube         | hyperkit  | docker  | 112.132.61.2 | 8443 | v1.23.3 | Running |     1 |
+| minikube-jenkins | hyperkit  | docker  | 181.134.24.7 | 8443 | v1.23.3 | Running |     1 |
 |------------------|-----------|---------|--------------|------|---------|---------|-------|
 
 # service port 
