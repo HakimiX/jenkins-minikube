@@ -20,7 +20,7 @@ minikube profile jenkins-minikube
 
 2. Create a namespace
 ```shell
-kubeclt create namespace jenkins
+kubectl create namespace jenkins
 kubens jenkins
 ```
 
